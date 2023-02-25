@@ -1,8 +1,10 @@
 # Predicting-House-Prices
 
-Goal: The goal of this project is to build a model that can predict the prices of houses based on various features such as location, number of rooms, size of the property, etc.
+# Goal
 
-Steps:
+The goal of this project is to build a model that can predict the prices of houses based on various features such as location, number of rooms, size of the property, etc.
+
+# Steps
 
 Data Collection: Collect data on houses for sale in your area. You can use websites like Zillow or Redfin to gather this data.
 
